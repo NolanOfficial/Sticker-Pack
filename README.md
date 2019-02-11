@@ -9,4 +9,6 @@ Creating a sticker pack with both static and animated images for Swift
 *
 
 ## Project Demo
-(Coming Soon...)
+
+
+https://github.com/NolanOfficial/Sticker-Pack/blob/master/Screenshot%201.png
